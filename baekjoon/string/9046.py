@@ -16,4 +16,3 @@ for i in range(num):
     print("?")
   else:
     print(max_char[0])
-
